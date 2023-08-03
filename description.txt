@@ -1,0 +1,27 @@
+Title:Geometry Game
+A app that ask user guess random generated cordinates and area of rectangle.
+The app return visual expression of random generated rectangle also the user guess dot.
+Also return difference between user guesses and random generated coordinates of rectangle.
+
+Classes:
+        Poin:
+            x
+            y
+            falls_in_rectangle()
+
+        Rectangle:
+            point1
+            point2
+            area()
+
+        GuiRectangle:
+            draw()
+
+        GuiPoint:
+            draw()
+
+
+
+
+
+
